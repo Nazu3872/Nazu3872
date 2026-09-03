@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Nazmunnahar%20Nazu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="./assets/banner.png" alt="Nazmunnahar Nazu - Full Stack Developer" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Nazmunnahar Nazu</h1>
