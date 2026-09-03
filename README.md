@@ -1,8 +1,7 @@
 <!-- ===================== HEADER ===================== -->
-
-<p align="center">
-  <img src="./assets/banner.png" alt="Nazmunnahar Nazu - Full Stack Developer" width="100%">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nazu3872/Nazu3872/main/Banar.png" alt="Banner" width="100%">
+</div>
 
 <h1 align="center">👋 Hi, I'm Nazmunnahar Nazu</h1>
 
